@@ -149,7 +149,7 @@
     "select-video": {
       "select-display": "Selecciona la pantalla",
       "select-camera": "Selecciona la càmera",
-      "select-both": "Selecciona la pantalla i la càmara"
+      "select-both": "Selecciona la pantalla i la càmera"
     },
     "select-audio": {
       "select-microphone": "Selecciona el micròfon",
@@ -165,7 +165,7 @@
       "frame-forward": "Un quadre avant",
       "frame-back": "Un quadre arrere",
       "cut-left": "Talla a l'esquerra",
-      "cut-right": "Talla a la derecha",
+      "cut-right": "Talla a la dreta",
       "delete-left": "Elimina el marcador de tall esquerre",
       "delete-right": "Elimina el marcador de tall dret"
     },
